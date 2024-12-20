@@ -1,0 +1,5 @@
+schedule
+pystray
+pywin32
+easyocr
+win11toast
